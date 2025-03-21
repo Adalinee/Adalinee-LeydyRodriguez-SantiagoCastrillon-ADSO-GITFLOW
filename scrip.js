@@ -4,5 +4,8 @@ class Inventario {
   }
   metodoB() {
     console.log("Ejecutando método B");
-    }
+  }
+  metodoC() {
+    console.log("Ejecutando método C");
+  }
 }
